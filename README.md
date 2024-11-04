@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Paula Lolade Ableto
-- 👀 I’m interested in  Data Analysis and web development
-- 🌱 I’m currently Learning and creating very easy to understand Data Visualization, and i love learning new technical languages to solve problems.
-- 💞️ I’m looking to collaborate with any Company that has a family-like culture.
-- 📫 How to reach me, (here)[www.linkedin.com/in/paula-ableto-48664718b]
-- 😄 Pronouns: She/her
+- 💞️ An Industrial Engineer with certificates in Data Analysis; Skilled in optimizing processes, analyzing data trends, and improving efficiency with data-driven solutions.
+- 😄 Completed a bootcamp in Data Analysis and Visualization, Google professional data Analytics Certification. I have consistently worked on projests to keep challenging my self and grow my skills.
+- 👀 I’m open for Entry level Data Analyst roles.
+- 🌱 I’m currently Learning and creating very easy to understand Data Visualization, and i love learning new technical languages(HTML,CSS,JS) to solve problems.
+- 💞️ I’m looking to collaborate with any Companies, organizations that has a family-like culture to solve their business problems by leveraging data.
+- 📫 How to reach me, (linkedin)[www.linkedin.com/in/paula-ableto-48664718b]
 - ⚡ Fun fact: I love meeting people from a different background than mine.
 
 <!---
