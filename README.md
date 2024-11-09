@@ -4,7 +4,7 @@
 - 👀 I’m open for Entry level Data Analyst roles.
 - 🌱 I’m currently Learning and creating very easy to understand Data Visualization, and i love learning new technical languages(HTML,CSS,Python) to solve problems.
 - 💞️ I’m looking to collaborate with any Companies, organizations that has a family-like culture to solve their business problems by leveraging data.
-- 📫 How to reach me, (linkedin)[www.linkedin.com/in/paula-ableto-48664718b]
+- 📫 Let's connect on (linkedin)[www.linkedin.com/in/paula-ableto-48664718b]
 - ⚡ Fun fact: I love meeting people from a different background than mine.
 
   
