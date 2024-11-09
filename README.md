@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love meeting people from a different background than mine.
 
   
-- Professional Skills:
+## Professional Skills:
   
 - Microsoft Excel
 - SQL(Structured Query Language)
